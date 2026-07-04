@@ -139,7 +139,7 @@ flutter run
 # 📡 Architecture
 
 ```
-                WebSocket
+        WebSocket
 
       Flutter App 1
             │
